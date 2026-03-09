@@ -1,6 +1,6 @@
 # **Class Examples**
 
-## **Lecture 4: 9/22**
+## **Lecture 4*
 
 ### **📝 Ex 1: Arrays**
 
